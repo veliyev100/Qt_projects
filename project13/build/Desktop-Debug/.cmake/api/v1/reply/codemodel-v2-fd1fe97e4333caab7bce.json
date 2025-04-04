@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5f5f46262e42b9e9e0ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "project13",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "project13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project13-Debug-8e9af75d2cb5914156cf.json",
+					"name" : "project13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project13_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project13_autogen-Debug-086e73e022e4f1ee3ed2.json",
+					"name" : "project13_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project13_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project13_autogen_timestamp_deps-Debug-8807db983669785ada08.json",
+					"name" : "project13_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/stud-07/project13/build/Desktop-Debug",
+		"source" : "/home/stud-07/project13"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

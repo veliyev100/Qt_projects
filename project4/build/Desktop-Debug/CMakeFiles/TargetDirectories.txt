@@ -1,0 +1,9 @@
+/home/stud-07/project4/build/Desktop-Debug/CMakeFiles/project4.dir
+/home/stud-07/project4/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/stud-07/project4/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/stud-07/project4/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/stud-07/project4/build/Desktop-Debug/CMakeFiles/install.dir
+/home/stud-07/project4/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/stud-07/project4/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/stud-07/project4/build/Desktop-Debug/CMakeFiles/project4_autogen_timestamp_deps.dir
+/home/stud-07/project4/build/Desktop-Debug/CMakeFiles/project4_autogen.dir
