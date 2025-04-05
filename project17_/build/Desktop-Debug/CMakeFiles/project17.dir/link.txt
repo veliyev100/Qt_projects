@@ -1,0 +1,1 @@
+/usr/bin/g++-13 -DQT_QML_DEBUG -g CMakeFiles/project17.dir/project17_autogen/mocs_compilation.cpp.o CMakeFiles/project17.dir/main.cpp.o -o project17  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.13 

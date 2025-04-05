@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9a4f374be886c31e7b8c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "project18",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "project18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project18-Debug-6d7d29f33165cf79b867.json",
+					"name" : "project18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project18_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project18_autogen-Debug-7e386c634dca2c6ac920.json",
+					"name" : "project18_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project18_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project18_autogen_timestamp_deps-Debug-ebe11338dfd85ffa907b.json",
+					"name" : "project18_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/stud-07/project18/build/Desktop-Debug",
+		"source" : "/home/stud-07/project18"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
